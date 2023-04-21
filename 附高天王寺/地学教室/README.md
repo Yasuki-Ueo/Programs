@@ -15,3 +15,5 @@ https://dotnet.microsoft.com/ja-jp/download/dotnet/6.0
 ### 注意事項
 
 地学教室の座席配置は2022年3月現在のものです。
+
+本アプリはWindows専用です。macOS、ChromeOSではご利用になれません。
