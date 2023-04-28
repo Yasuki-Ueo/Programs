@@ -10,4 +10,4 @@
 
 ## KMZファイルについて
 
-KMZファイルはGoogle Earthのファイル形式です。Google Earth(Web版)、Google Earth Pro、Googleマイマップ(Web版)で開くことができます。
+KMZファイルはGoogle Earthのファイル形式である。Google Earth(Web版)、Google Earth Pro、Googleマイマップ(Web版)で開くことができる。
